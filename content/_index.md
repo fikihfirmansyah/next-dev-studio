@@ -1,17 +1,22 @@
 ---
-title: "Pasti-in App"
-subtitle: Be Healthy! Live Well.
+title: "Great coffee with a conscience"
+subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Mengapa Pasti-in?
-  text: "Pasti-in dapat membantu masyarakat lebih selektif dalam memilih makanan instan yang akan dikonsumsi agar terhindar dari alergen yang dapat memicu alergi dan bahan makanan yang haram. Pengoperasian scanning pada aplikasi dengan cara mengarahkan kamera pada kemasan juga sangat memudahkan dalam penggunaanya. Aplikasi ini juga menggunakan data-data yang telah tersebar luas sehingga memudahkan dalam survei untuk mengetahui bahan-bahan alergen, dan halal-haram."
+  heading: Why Kaldi?
+  text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+intro:
+  heading: "What we offer"
+  text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+products:
+  - image: img/illustrations-coffee.svg
+    text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+  - image: /img/illustrations-coffee-gear.svg
+    text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
-  heading: Nilai kita
-  buttonText: Baca lebih lajut
+  heading: Our values
+  buttonText: Read more
   buttonLink: /values
-  image: img/about-jumbotron.jpg
-  text: "Pasti-in dihadirkan untuk menjawab permasalahan paling umum terkai kandungan pada makanan berkemasan yang salah konsumsi sehingga
-menyebabkan gejala alergi muncul pada seseorang. Melalui program kreativitas mahasiswa karsa cipta ini dihasilkan sebuah purwarupa aplikasi scan yang dapat mengidentifikasi karakter dan kata pada label komposisi makanan berkemasan lalu memilihnya pada basis data untuk ditampilkan kepada pengguna berdasarkan sensitivitas dan alergi penggunanya. Pasti-in juga bertujuan untuk mengedukasi masyarakat mengenai komposisi tertentu yang tidak baik untuk tubuh jika dikonsumsi dalam jumlah besar atau komposisi yang menjadi alergi seseorang
-sehingga upaya preventif dapat dilakukan."
-
+  image: img/home-about-section.jpg
+  text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
