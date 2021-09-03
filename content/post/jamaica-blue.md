@@ -1,9 +1,8 @@
 ---
-title: 'Waspadai 7 Penyebab Alergi Paling Umum'
-date: '2019-09-04T15:04:10.000Z'
+title: "Waspadai 7 Penyebab Alergi Paling Umum"
+date: "2019-09-04T15:04:10.000Z"
 description: >-
-Reaksi alergi bukan hanya soal gatal dan sesak napas. Dalam beberapa jenis, alergi ada yang bersifat ringan dan fatal hingga berisiko meninggal dunia.
-
+  Reaksi alergi bukan hanya soal gatal dan sesak napas. Dalam beberapa jenis, alergi ada yang bersifat ringan dan fatal hingga berisiko meninggal dunia.
 ---
 
 Reaksi alergi bukan hanya soal gatal dan sesak napas. Dalam beberapa jenis, alergi ada yang bersifat ringan dan fatal hingga berisiko meninggal dunia.

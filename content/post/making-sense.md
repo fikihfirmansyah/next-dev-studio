@@ -8,13 +8,13 @@ image: /img/blog-flavor_wheel.jpg
 Ajaran Islam selalu menganjurkan umat muslim untuk senantiasa mengonsumsi makan-makanan yang halal dan bergizi. Hal ini juga berkali-kali disebut dalam Al Quran dan hadits.
 Salah satunya Allah berfirman dalam QS Al Baqarah ayat 168 berbunyi:
 
-يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
+## يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
 
 Artinya: "Wahai sekalian manusia, makanlah yang halal lagi baik dari apa yang terdapat di bumi, dan janganlah kamu mengikuti langkah-langkah syaitan, karena sesungguhnya syaitan itu adalah musuh yang nyata bagimu." (QS. Al Baqarah: 168).
 
 Hukum memakan makanan halal juga merujuk pada Al Quran surat Al-Baqarah ayat 172.
 
-يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
+## يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
 
 Artinya: "Hai orang-orang yang beriman, makanlah di antara rezeki yang baik-baik yang Kami berikan kepadamu dan bersyukurlah kepada Allah, jika benar-benar kepada-Nya kamu menyembah." (QS. Al Baqarah: 172).
 

@@ -2,8 +2,7 @@
 title: Anak Alergi Makanan, Orangtua Tak Perlu Panik
 date: "2021-09-04T15:04:10.000Z"
 description: >-
-Alergi merupakan “bakat” yang diturunkan orangtua pada anak. Dengan “bakat” tersebut, anak berisiko mengalami gangguan kesehatan jika bertemu dengan pencetus yang sesuai dan akan menimbulkan gejala. Gejala inilah yang kemudian disebut dengan penyakit alergi.
-image: /img/blog-chemex.jpg
+  Alergi merupakan “bakat” yang diturunkan orangtua pada anak. Dengan “bakat” tersebut, anak berisiko mengalami gangguan kesehatan jika bertemu dengan pencetus yang sesuai dan akan menimbulkan gejala. Gejala inilah yang kemudian disebut dengan penyakit alergi.
 ---
 
 ## Alergi merupakan “bakat” yang diturunkan orangtua pada anak. Dengan “bakat” tersebut, anak berisiko mengalami gangguan kesehatan jika bertemu dengan pencetus yang sesuai dan akan menimbulkan gejala. Gejala inilah yang kemudian disebut dengan penyakit alergi.
