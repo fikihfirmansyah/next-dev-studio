@@ -2,18 +2,16 @@
 title: "Contact"
 logo: "/img/contact-us.png"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Lokasi
+    text: "Jl. Pembangunan No. 122, Medan Baru, Kota Medan"
+  - heading: Jam kerja
+    text: "Senin – Sabtu: 09.00 – 19.00 Kami tutup pada hari Minggu"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Kami ingin menghubungi Anda dan mendengar ide-ide Anda dan
+pertanyaan. Kami berusaha untuk tumbuh dan meningkatkan terus-menerus dan umpan balik Anda
+sangat berharga bagi kami.
 
-<h3 class="f4 b lh-title mv3">How can I get…?</h3>
+<h3 class="f4 b lh-title mv3">Bagaimana saya bisa mulai..?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Whatsapp : 62-823-7038-2008
