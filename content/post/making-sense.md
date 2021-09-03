@@ -1,27 +1,47 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: '2016-12-17T15:04:10.000Z'
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: "Apa Arti Makanan Halal dalam Islam? Ini Penjelasan dan Contohnya"
+date: "2021-09-01T15:04:10.000Z"
+description: Ajaran Islam selalu menganjurkan umat muslim untuk senantiasa mengonsumsi makan-makanan yang halal dan bergizi. Hal ini juga berkali-kali disebut dalam Al Quran dan hadits.
 image: /img/blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Ajaran Islam selalu menganjurkan umat muslim untuk senantiasa mengonsumsi makan-makanan yang halal dan bergizi. Hal ini juga berkali-kali disebut dalam Al Quran dan hadits.
+Salah satunya Allah berfirman dalam QS Al Baqarah ayat 168 berbunyi:
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ
 
-## What the updates mean to you
+Artinya: "Wahai sekalian manusia, makanlah yang halal lagi baik dari apa yang terdapat di bumi, dan janganlah kamu mengikuti langkah-langkah syaitan, karena sesungguhnya syaitan itu adalah musuh yang nyata bagimu." (QS. Al Baqarah: 168).
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Hukum memakan makanan halal juga merujuk pada Al Quran surat Al-Baqarah ayat 172.
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+يَا أَيُّهَا الَّذِينَ آمَنُوا كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ وَاشْكُرُوا لِلَّهِ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Artinya: "Hai orang-orang yang beriman, makanlah di antara rezeki yang baik-baik yang Kami berikan kepadamu dan bersyukurlah kepada Allah, jika benar-benar kepada-Nya kamu menyembah." (QS. Al Baqarah: 172).
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Melansir dari situs Islamic Council of Victoria, halal dalam bahasa Arab dijelaskan sebagai sesuatu yang baik, dibolehkan, dan sesuai hukum. Bagi umat muslim, makanan yang halal adalah yang didapat dan diolah sesuai dengan syariat Islam.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Tentu saja selain halal, makanan juga harus bergizi, agar bermanfaat bagi tubuh dan juga kesehatan.
+
+Senada dengan hal itu, Dian Eka Mayasari, dkk dalam bukunya yang bertajuk Sheffield Stories, menjelaskan mengenai konsep halal dalam Islam di antaranya adalah sebagai berikut:
+
+- Halal secara zatnya, yaitu semua makanan yang tidak diharamkan oleh Al Quran dan hadits. Yang secara jelas dinyatakan sebagai haram di Al Quran adalah bangkai, darah, dan daging babi:
+
+- Halal cara memprosesnya, yaitu penyembelihan hewan dilakukan oleh orang muslim dengan menyebut nama Allah SWT di bagian urat nadi sampai darahnya habis dan terputus saluran napasnya dengan menggunakan pisau yang tajam.
+
+Tujuan dari penyembelihan ini adalah hewan langsung mati, sehingga mengurangi rasa sakit saat meregang nyawa.
+
+- Halal cara memperolehnya, contohnya bukan makanan hasil curian; dan
+
+- Tidak mengandung bahan yang memabukkan.
+
+Mengutip dari buku Makanan yang Halal & Haram yang ditulis oleh Suryana adapun contoh makanan dan minuman yang dapat dikategorikan halal, di antaranya semua binatang yang hidup di air, baik berupa ikan maupun bukan ikan, ikan dan belalang, semua makanan yang terbuat dari sari buah-buahan, hingga minuman air murni.
+
+Selain itu, minuman yang berasal dari lebah, air susu ibu (ASI), susu sapi, dan susu kambing juga termasuk dalam kategori makanan dan minuman halal.
+
+Setelah mengetahui terkait makanan seperti apa yang dapat disebut dengan makanan halal. Dalam sebuah hadits juga diceritakan akibat dari mengkonsumsi makanan yang tidak halal.
+
+Dari Abu Hurairah dalam sebuah hadits yang diriwayatkan Muslim, Rasulullah SAW Bersabda:
+
+"Wahai Rabb-ku, wahai Rabb-ku," namun makanannya haram, minumannya haram dan pakaiannya haram dan kenyang dengan sesuatu yang haram, lalu bagaimana mungkin doanya akan dikabulkan?" (HR Muslim).
+
+Jadi, hati-hati dalam memilih makanan yang halal ya, sahabat hikmah! Semoga makanan yang selama ini kita konsumsi terbukti halal dan diridhai oleh Allah, aamiin.

@@ -1,46 +1,50 @@
 ---
-title: "Values"
-subtitle: We grow coffee with great quality
+title: "Nilai"
+subtitle: Kami mengolah data untuk yang terbaik
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Tujuan terbaik untuk orang-orang"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Pasti-in dihadirkan untuk menjawab permasalahan paling umum terkait
+kandungan pada makanan berkemasan yang salah konsumsi sehingga
+menyebabkan gejala alergi muncul pada seseorang. Melalui program kreativitas
+mahasiswa karsa cipta ini dihasilkan sebuah purwarupa aplikasi scan yang dapat
+mengidentifikasi karakter dan kata pada label komposisi makanan berkemasan
+lalu memilihnya pada basis data untuk ditampilkan kepada pengguna berdasarkan
+sensitivitas dan alergi penggunanya. Pasti-in juga bertujuan untuk mengedukasi
+masyarakat mengenai komposisi tertentu yang tidak baik untuk tubuh jika
+dikonsumsi dalam jumlah besar atau komposisi yang menjadi alergi seseorang
+sehingga upaya preventif dapat dilakukan.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Teknologi terbaru untuk skalabilitas"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Kami memulai dengan tech-stack paling update dengan menggunakan google cloud platform, ML Kit, bahasa pemrograman kotlin, dan zend framework untuk pembuatan API. Text in image recognition adalah salah satu metode untuk ekstraksi
+karakter dan kata yang terdapat dalam suatu label pada gambar menjadi sebuah
+data yang akan diolah pada sebuah aktivitas. Metode ekstraksi teks dari label
+makanan berkemasan ini lebih baik digunakan jika dibandingkan dengan
+penggunaan kode batang UPC atau EAN yang tidak ada organisasi global yang
+benar-benar mengoleksi dataset dari tiap produk terdaftar yang menggunakan
+kode batang tersebut.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Pengembangan Dataset"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Untuk memenuhi kebutuhan pengguna mengenai ketersediaan basis data
+kandungan produk dan label alergi dan sensitivitasnya, ke depannya akan
+dilakukan kerjasama dan join dengan BPOM dan LPPOM MUI untuk
+meningkatkan kelengkapan data komposisi yang dimiliki Pasti-in. Dengan
+adanya kerja sama tersebut, maka akan memudahkan proses kerja aplikasi ke
+depannya. Pengembangan dataset dilakukan dengan kunjungan dan MoU
+terhadap pihak terkait. Selain itu, juga akan dilakukan riset internal terhadap
+perkembangan dataset komposisi dan kandungan pada makanan berkemasan.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Ekspansi Aplikasi"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Selain itu, aplikasi ini juga dapat dikembangkan ke dalam ranah produk
+kosmetika. Dimana dengan kondisi sekarang ini, produk kosmetik sangat
+digandrungi oleh kaum wanita baik di usia tua maupun usia muda. Aplikasi ini
+dapat dirancang untuk dapat mendeteksi bahan kimia berbahaya yang dapat
+merusak kulit, baik dalam bahasa Indonesia maupun bahasa asing yang akan
+diterjemahkan dan diberikan informasi yang bersangkutan dengan bahan yang
+terkandung.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
 ---

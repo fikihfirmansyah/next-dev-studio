@@ -1,28 +1,56 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: '2017-01-04T15:04:10.000Z'
+title: 'Waspadai 7 Penyebab Alergi Paling Umum'
+date: '2019-09-04T15:04:10.000Z'
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+Reaksi alergi bukan hanya soal gatal dan sesak napas. Dalam beberapa jenis, alergi ada yang bersifat ringan dan fatal hingga berisiko meninggal dunia.
+
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Reaksi alergi bukan hanya soal gatal dan sesak napas. Dalam beberapa jenis, alergi ada yang bersifat ringan dan fatal hingga berisiko meninggal dunia.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Maka itu, perlu untuk mewaspadai penyebab alergi dari makanan, cuaca hingga kontak kulit. Berikut ini beberapa penyebab alergi paling umum, seperti dilansir Healthline, Jumat (28/10/2016):
 
-## A little history
+## 1. Alergi suhu udara
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Bila Anda pernah mendengar ada istilah untuk alergi matahari ketika kondisi kulit gatal dan memerah. Ternyata hal ini bukan disebabkan oleh matahari, melainkan orang tersebut mengalami alergi terhadap suhu panas.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Dokter Spesialis Anak Sub-Spesialis Alergi-Imunologi dari RSCM, DR. dr. Zakiudin Munasir, Sp.A(K) beberapa waktu lalu sempat menyatakan, dalam kondisi tertentu, sel mast dalam tubuh yang merupakan salah satu sel tubuh manusia yang memproduksi dan bisa melepaskan suatu senyawa yang disebut histamin akan menyebabkan berbagai reaksi di tubuh seperti gatal, bengkak, sesak nafas dan sebagainya. Dalam kasus ini, antibodi tidak bisa
+menahan suhu ekstrem tersebut.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## 2. Alergi binatang dan serangga
 
-## What you need to know before trying
+Hewan juga bisa menyebabkan reaksi alergi. Jika Anda alergi terhadap kucing, anjing, atau hewan lain misalnya, Anda cenderung bersin, sesak, gatal-gatal dan ruam.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+## 3. Dermatitis kontak
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Dermatitis kontak adalah peradangan pada kulit yang ditandai dengan ruam gatal kemerahan, yang muncul akibat kontak dengan zat tertentu. Ruam yang muncul akibat peradangan ini tidak menular atau berbahaya, tapi bisa menyebabkan rasa tidak nyaman bagi penderita.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+## 4. Makanan
 
+Alergi makanan merupakan jenis paling umum yang mempengaruhi wajah. Tingkat keparahan alergi makanan bervariasi. Anda mungkin merasa sakit perut setelah mengonsumsi makanan tertentu, atau ada juga yang mengalami ruam atau pembengkakan di sekitar bibir mereka.
+
+Dalam kasus terparah, alergi makanan bisa mengancam jiwa karena menyebabkan lidah dan tenggorokan membengkak.
+
+## 5. Alergi obat
+
+Alergi obat biasanya menyebabkan ruam kulit pada wajah dan lengan, gatal-gatal, pembengkakan umum dari wajah, dan anafilaksis.
+
+## 6. Eksim
+
+Penyebab eksim, atau dermatitis atopik, tidak begitu dipahami. Tapi yang jelas, orang eksim cenderung memiliki alergi terhadap sesuatu, khususnya makanan.
+
+## 7. Anafilaksis
+
+Anafilaksis adalah jenis alergi yang paling parah. Anafilaksis atau syok anafilaksis bisa berkembang cepat dan mengancam nyawa. Tidak seperti reaksi alergi lain, gejala-gejala anafilaksis antara lain:
+
+- sesak di tenggorokan dan dada
+- pembengkakan wajah, bibir, dan tenggorokan
+- gatal-gatal atau ruam merah di seluruh area tubuh
+- kesulitan bernapas atau mengi
+- pucat ekstrem atau kemerahan di wajah
+
+## Diagnosis dan pengobatan
+
+Dengan pengecualian reaksi anafilaksis, Anda bisa mendapatkan pengobatan alergi dengan mengonsultasikan diri ke dokter secepatnya. Dalam beberapa kasus, ada beberapa obat yang dijual bebas di pasaran seperti antihistamin yang dapat membantu tubuh Anda berhenti bereaksi terhadap alergen dalam beberapa menit.
+
+Jika Anda tidak yakin apa yang menyebabkan ruam atau gatal-gatal, ingat kembali apa yang telah Anda makan dan lakukan sebelumnya. Hal ini berguna untuk menperjelas diagnosis saat konsultasi dengan dokter.

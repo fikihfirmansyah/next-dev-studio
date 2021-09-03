@@ -29,7 +29,6 @@ export default function Index({ homeData, posts }) {
         />
         <TwoUp 
           intro={homeData.intro}
-          products={homeData.products}
         />
         <TextAndImage 
           heading={homeData.values.heading}
